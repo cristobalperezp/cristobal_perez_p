@@ -11,7 +11,7 @@
 
 - ✈️ I want to go abroad to work and get to know other realities, as well as to travel around the world.
 
-- 📚 This semester I am taking programming lab, machine learning and natural language processing.
+- 📚 This semester I am doing my thesis at Itaú.
 
 - 📫 How to reach me **cristobal.perez.p99@gmail.com**
 
