@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **cristobal.perez.p99@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/cristobalperezp/Resume/blob/main/Curriculum%20Vitae%20Cristo%CC%81bal%20Pe%CC%81rez.pdf" target="blank">Resume</a>
+- 📄 Here you can find my resume:  <a href="https://github.com/cristobalperezp/Resume/blob/main/Curriculum%20Vitae%20Cristo%CC%81bal%20Pe%CC%81rez.pdf" target="blank">Resume</a>
 <br/>
 
 
