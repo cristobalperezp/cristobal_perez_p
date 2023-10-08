@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cristóbal Pérez </h1>
-<h3 align="center">A machine learning engineering student </h3>
+<h3 align="center">Machine learning engineering student </h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -16,7 +16,7 @@
 - 📫 How to reach me **cristobal.perez.p99@gmail.com**
 
 - 📄 Here you can find my  <a href="https://github.com/cristobalperezp/Resume/blob/main/Curriculum%20Vitae%20Cristo%CC%81bal%20Pe%CC%81rez.pdf" target="blank">resume</a>
-<br/>
+<br/>.
 
 
 
